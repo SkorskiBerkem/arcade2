@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Neon_mobile_set2/scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

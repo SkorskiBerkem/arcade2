@@ -1,0 +1,626 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.31f1 (6b54b7616050) revision 7034039'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Core' Language: 'en' Physical Memory: 16122 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.31f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/User/Desktop/berkem/ders/Arcade Saloon
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51582
+Successfully changed project path to: C:/Users/User/Desktop/berkem/ders/Arcade Saloon
+C:/Users/User/Desktop/berkem/ders/Arcade Saloon
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.31f1 (6b54b7616050)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/User/Desktop/berkem/ders/Arcade Saloon/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   
+    VRAM:     6023 MB
+    Driver:   30.0.14.7247
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56448
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.180571 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 23.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.720 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2721ms)
+		BeginReloadAssembly (1858ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (547ms)
+			LoadAssemblies (1860ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (321ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (22ms)
+			SetupLoadedEditorAssemblies (124ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (24ms)
+				BeforeProcessingInitializeOnLoad (11ms)
+				ProcessInitializeOnLoadAttributes (60ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.306448 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.730 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2734ms)
+		BeginReloadAssembly (105ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (2588ms)
+			LoadAssemblies (903ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (738ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (798ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (61ms)
+				ProcessInitializeOnLoadAttributes (282ms)
+				ProcessInitializeOnLoadMethodAttributes (447ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1506 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.7 MB.
+System memory in use after: 69.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1942.
+Total: 2.065200 ms (FindLiveObjects: 0.099400 ms CreateObjectMapping: 0.025400 ms MarkObjects: 1.885000 ms  DeleteObjects: 0.054600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Packages/com.unity.textmeshpro/package.json
+  artifactKey: Guid(220e9325710f4235a43492dd1ee4980d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/package.json using Guid(220e9325710f4235a43492dd1ee4980d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c6d4de5db3a39bcb3575c98dc9df750') in 0.071994 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.521556 seconds.
+  path: Assets/DinV/Dynamic Space Background
+  artifactKey: Guid(cfbbfb20b2395ec48ba47f1f035266d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DinV/Dynamic Space Background using Guid(cfbbfb20b2395ec48ba47f1f035266d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30ea7c177712ae3d6fae74d989c6de67') in 0.006507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.912984 seconds.
+  path: Assets/DinV/Dynamic Space Background/Sprites
+  artifactKey: Guid(3ec1885b01800f2418a75597e3cc12b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DinV/Dynamic Space Background/Sprites using Guid(3ec1885b01800f2418a75597e3cc12b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb09a9870e5d566b13da4b159d0e5c9d') in 0.006898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.100899 seconds.
+  path: Assets/DinV/Dynamic Space Background/Sprites/Nebula Aqua-Pink.png
+  artifactKey: Guid(d9b31ebd60af68c469212c1a9f513e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DinV/Dynamic Space Background/Sprites/Nebula Aqua-Pink.png using Guid(d9b31ebd60af68c469212c1a9f513e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd93c3bcede2749c2e9adc04fba1449b') in 0.084343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/DinV/Dynamic Space Background/Sprites/Nebula Blue.png
+  artifactKey: Guid(ddcac1fac1f5c8943a30c2ef6b724062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DinV/Dynamic Space Background/Sprites/Nebula Blue.png using Guid(ddcac1fac1f5c8943a30c2ef6b724062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92df2f03115a7ce86a3711536ed5007a') in 0.055208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/DinV/Dynamic Space Background/Sprites/Stars-Big_1.png
+  artifactKey: Guid(c6944f9f15bd0ca4087bcdf033f0e162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DinV/Dynamic Space Background/Sprites/Stars-Big_1.png using Guid(c6944f9f15bd0ca4087bcdf033f0e162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb31d3a8453e12dc4c64fb7243cc4c70') in 0.016324 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/DinV/Dynamic Space Background/Sprites/Nebula Red.png
+  artifactKey: Guid(35313af049b4a2f42a0325330c51d74a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DinV/Dynamic Space Background/Sprites/Nebula Red.png using Guid(35313af049b4a2f42a0325330c51d74a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fbccd7ec42cdd19b123689225ed8b3e') in 0.038524 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/DinV/Dynamic Space Background/Sprites/Stars Small_1.png
+  artifactKey: Guid(efe6ce32a6a4408489775c70e5d32f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DinV/Dynamic Space Background/Sprites/Stars Small_1.png using Guid(efe6ce32a6a4408489775c70e5d32f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04a826c4056b842afaee73a327357d32') in 0.047040 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 53.453731 seconds.
+  path: Assets/DinV/Dynamic Space Background/Sprites/Nebula Blue 1.png
+  artifactKey: Guid(a3d57346d3c197c4f88052a673d0645b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DinV/Dynamic Space Background/Sprites/Nebula Blue 1.png using Guid(a3d57346d3c197c4f88052a673d0645b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0146238411d1882ed1baf8a921f335e') in 0.037906 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 368.350355 seconds.
+  path: Assets/DinV/Dynamic Space Background/Sprites/Nebula Blue.png
+  artifactKey: Guid(ddcac1fac1f5c8943a30c2ef6b724062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DinV/Dynamic Space Background/Sprites/Nebula Blue.png using Guid(ddcac1fac1f5c8943a30c2ef6b724062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ad94b63e6f6cd657d1cc7583b301de4') in 0.048822 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.158814 seconds.
+  path: Assets/DinV/Dynamic Space Background/Sprites/Materials/Nebula Blue.mat
+  artifactKey: Guid(c0fe795af3ab7664e8e2c565a67e6038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DinV/Dynamic Space Background/Sprites/Materials/Nebula Blue.mat using Guid(c0fe795af3ab7664e8e2c565a67e6038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4250c70fa9df1d02150eec853bfa0f52') in 0.061975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/DinV/Dynamic Space Background/Sprites/Materials/Stars Small_1.mat
+  artifactKey: Guid(f419520c5ac72a54fa0e209b0b8a06e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DinV/Dynamic Space Background/Sprites/Materials/Stars Small_1.mat using Guid(f419520c5ac72a54fa0e209b0b8a06e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b91932718cce13fbf4883244ec09fae') in 0.032549 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.487935 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Templates/ArcadeStandardUV.png
+  artifactKey: Guid(8b7c2670d4b596c4ab080aefb3352fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Templates/ArcadeStandardUV.png using Guid(8b7c2670d4b596c4ab080aefb3352fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfd95fd3f8f0fc07a33e19cfec0776f5') in 0.015608 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.513883 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Templates/ChairTallUV.png
+  artifactKey: Guid(0457687763f9f9245a9df317a20f40da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Templates/ChairTallUV.png using Guid(0457687763f9f9245a9df317a20f40da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17cb0f1cd58200542f703e7f768c43c6') in 0.013768 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.120985 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Templates/ControlsUV.png
+  artifactKey: Guid(ddb8716d5ea967c48b26745c3e8cd488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Templates/ControlsUV.png using Guid(ddb8716d5ea967c48b26745c3e8cd488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1201756aee86f8741a00146109015769') in 0.023265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.389721 seconds.
+  path: Assets/Alstra Infinite/Arcade Machines - PolyPack/Texture/PolyPack_Main1.png
+  artifactKey: Guid(9547c445c41da2f4a94c6a7e04d06de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Arcade Machines - PolyPack/Texture/PolyPack_Main1.png using Guid(9547c445c41da2f4a94c6a7e04d06de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58e47ede38c6e6f9027dc2cbbef117ec') in 0.016659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Alstra Infinite/Arcade Machines - PolyPack/Scene/Showcase/ReflectionProbe-0.exr
+  artifactKey: Guid(f08b785eed686ab4f909f53d14ef4c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Arcade Machines - PolyPack/Scene/Showcase/ReflectionProbe-0.exr using Guid(f08b785eed686ab4f909f53d14ef4c56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fedc1ca982ebad6d1fda7c6d3363e85') in 0.033439 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1365.060381 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.005836 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.381094 seconds.
+  path: Assets/Textures
+  artifactKey: Guid(f98773baadf8a80459ed1fc4c0144591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(f98773baadf8a80459ed1fc4c0144591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d52f424aa6c2d2f97824cc8919c48c5') in 0.006892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.119603 seconds.
+  path: Assets/AurynSky
+  artifactKey: Guid(9b1b56aef4559004a9007d6afa3c5bb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky using Guid(9b1b56aef4559004a9007d6afa3c5bb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e79908e522067d530262c02670dd038') in 0.007237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.817439 seconds.
+  path: Assets/AurynSky/Arcade Pack 01
+  artifactKey: Guid(ca0c7125700c6c04e973639587b6f7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01 using Guid(ca0c7125700c6c04e973639587b6f7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a35091aad8421a4eea1c606b093182e') in 0.006875 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.778916 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials
+  artifactKey: Guid(cd5f43bee018332468d05bcc7d3796d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials using Guid(cd5f43bee018332468d05bcc7d3796d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd513854480f15041b976422341c8e0cf') in 0.005754 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.113161 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardAlientox.mat
+  artifactKey: Guid(ed13ad35851e28a4183f5c4492ea112d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardAlientox.mat using Guid(ed13ad35851e28a4183f5c4492ea112d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '107eb92259e2fe936efd51918f8f06d3') in 0.020444 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ControlsBlue.mat
+  artifactKey: Guid(7a8042e1c04b17e42952328cc14b88e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ControlsBlue.mat using Guid(7a8042e1c04b17e42952328cc14b88e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a266008fb6df76fc76d00e310fdd44a5') in 0.024426 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardPSquad.mat
+  artifactKey: Guid(e89ca331a70b1eb41a2885926c5b41c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardPSquad.mat using Guid(e89ca331a70b1eb41a2885926c5b41c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dae9c68b19201444ff561690200b65d') in 0.017230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ControlsLightBlue.mat
+  artifactKey: Guid(510338fd5884cf44aaef2ec783fe3d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ControlsLightBlue.mat using Guid(510338fd5884cf44aaef2ec783fe3d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '906525c232c06be93bb0a924c9907c95') in 0.015461 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ControlsPurple.mat
+  artifactKey: Guid(fb43c9ca1e7772c499812fea302dd2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ControlsPurple.mat using Guid(fb43c9ca1e7772c499812fea302dd2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '832f07a409af33bd3c72a8dcd0391eb2') in 0.019533 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardXOXOXOSCREEN.mat
+  artifactKey: Guid(287d2f25756cf41449b414df76ffc866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardXOXOXOSCREEN.mat using Guid(287d2f25756cf41449b414df76ffc866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1cc214776651ecc6c85e1484752064') in 0.015559 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardPSquadScreen.mat
+  artifactKey: Guid(e536609101f475a4a8107011e34e19fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardPSquadScreen.mat using Guid(e536609101f475a4a8107011e34e19fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '021357784e197f7e85b554109f5806e3') in 0.015240 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ControlsYellow.mat
+  artifactKey: Guid(58961acea133c1e4a917d67844331c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ControlsYellow.mat using Guid(58961acea133c1e4a917d67844331c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52f22089b19afd95e16bf980947b6039') in 0.015694 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/Blank.mat
+  artifactKey: Guid(c1c1f3f4b6fa922408bd68023a3440ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/Blank.mat using Guid(c1c1f3f4b6fa922408bd68023a3440ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6767f3ba80263663111593873e6312ec') in 0.011076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardAlientoxSCREEN.mat
+  artifactKey: Guid(4dd2d8b413c9e2542869672e2ccbf08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardAlientoxSCREEN.mat using Guid(4dd2d8b413c9e2542869672e2ccbf08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b323c8fb5364845f74aa60b5e3a12a') in 0.015365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardAskyTexture.mat
+  artifactKey: Guid(c6a0e8101c4f2ee4f92dca4ea7e113df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardAskyTexture.mat using Guid(c6a0e8101c4f2ee4f92dca4ea7e113df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba487975d2d51a5747094f2b207ba168') in 0.016777 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ChairTallTexture.mat
+  artifactKey: Guid(02b2c0ed4f9518f47b69cd4bb8c6202b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ChairTallTexture.mat using Guid(02b2c0ed4f9518f47b69cd4bb8c6202b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aed49088108afcf0a79b13a46ec120e') in 0.017510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardXOXOXO.mat
+  artifactKey: Guid(1b985ee7f56db4b41bd36c1b689007cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardXOXOXO.mat using Guid(1b985ee7f56db4b41bd36c1b689007cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c5edcf095604aeeb42528c8f0207298') in 0.015168 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/Material.mat
+  artifactKey: Guid(f11b78a7f662a0245ac51ecf83f481f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/Material.mat using Guid(f11b78a7f662a0245ac51ecf83f481f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97555556008d9e5441b25e593524d2a1') in 0.011191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ControlsOrange.mat
+  artifactKey: Guid(dc5afe932afbaa64d9edcc6095bb6f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ControlsOrange.mat using Guid(dc5afe932afbaa64d9edcc6095bb6f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee0b5de1b0a5d08245ee501d9bc194ec') in 0.016352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardHotLavaSCREENtexture.mat
+  artifactKey: Guid(6c4592a66b3aa7b43bc097de41b95ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardHotLavaSCREENtexture.mat using Guid(6c4592a66b3aa7b43bc097de41b95ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7c42bf900860c110033bd2bd834eb8a') in 0.015770 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ControlsRed.mat
+  artifactKey: Guid(600ec351a06099241b7fbb3500fdd5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ControlsRed.mat using Guid(600ec351a06099241b7fbb3500fdd5af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1af8ec4b61c4e3bd5297752367652418') in 0.016050 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/TableTopNNeutronus.mat
+  artifactKey: Guid(8089a8f089f969a44942e0a501b6edb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/TableTopNNeutronus.mat using Guid(8089a8f089f969a44942e0a501b6edb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c72964acae153d9809e157acfb24d0c') in 0.013643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/TableTopBarred.mat
+  artifactKey: Guid(26271933147b1924fbacbc549c5b48d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/TableTopBarred.mat using Guid(26271933147b1924fbacbc549c5b48d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '636af636174caf2592eb5cff4e197925') in 0.016090 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ControlsGreen.mat
+  artifactKey: Guid(f1cddc56f54b37d4492e077601cc3001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ControlsGreen.mat using Guid(f1cddc56f54b37d4492e077601cc3001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1148117dd94ee7d116e04a216b317242') in 0.016420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/Floor.mat
+  artifactKey: Guid(68947972288e7ea49a9ec21089e61a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/Floor.mat using Guid(68947972288e7ea49a9ec21089e61a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63b23136db127b211da693db4d9b8c9f') in 0.011695 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/No Name.mat
+  artifactKey: Guid(71bd90a922fb266449190abd218b79a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/No Name.mat using Guid(71bd90a922fb266449190abd218b79a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f3f536d8dcccc54fe82971e76f87835') in 0.011220 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ControlsBlack.mat
+  artifactKey: Guid(c37a86dbcb57fb24ab30e15bdfe89a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ControlsBlack.mat using Guid(c37a86dbcb57fb24ab30e15bdfe89a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d906df9460885095ca6c2783e193998') in 0.017299 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardAskySCREENTexture.mat
+  artifactKey: Guid(e8ffb560df386514ca8f1af117f560dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardAskySCREENTexture.mat using Guid(e8ffb560df386514ca8f1af117f560dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e9e175f2844665023cf3bbcfbab09d3') in 0.014820 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardHotLavaFBX.mat
+  artifactKey: Guid(14a7554fcdbb44944b800d691a97832e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Materials/ArcadeStandardHotLavaFBX.mat using Guid(14a7554fcdbb44944b800d691a97832e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9de62e3c488c2298f6f6d9ac69fd482') in 0.015672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.311178 seconds.
+  path: Assets/Makineler
+  artifactKey: Guid(3f5a371d4749f7e498341c96f8e9015c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Makineler using Guid(3f5a371d4749f7e498341c96f8e9015c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08ae0ea463ac7ecd3d8d1c7c7ae2d9ef') in 0.006197 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.944487 seconds.
+  path: Assets/Alstra Infinite
+  artifactKey: Guid(3db0402cc70300c429cddede45d938b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite using Guid(3db0402cc70300c429cddede45d938b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c761ed390c35d2635d5d013fb59930a') in 0.005955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.726548 seconds.
+  path: Assets/Alstra Infinite/Arcade Machines - PolyPack
+  artifactKey: Guid(1f1ad85684b5e59408b68c8e418418e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Arcade Machines - PolyPack using Guid(1f1ad85684b5e59408b68c8e418418e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2cdc009ec1f9e207062ebebbb250c03') in 0.006660 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 184.768027 seconds.
+  path: Assets/Textures/DinV
+  artifactKey: Guid(977f425dbec51ca4b868527028683d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/DinV using Guid(977f425dbec51ca4b868527028683d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0199ead004290759797c55b2023be1d8') in 0.006352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7027.416088 seconds.
+  path: Assets/Makineler/Alstra Infinite/Arcade Machines - PolyPack/Materials/Glass.mat
+  artifactKey: Guid(70ba8b8319e7552408d09e754824f471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Makineler/Alstra Infinite/Arcade Machines - PolyPack/Materials/Glass.mat using Guid(70ba8b8319e7552408d09e754824f471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e89756036010500600612fa93c5c7aaf') in 0.028734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Textures/DinV/Dynamic Space Background/Sprites/Materials/Nebula Blue.mat
+  artifactKey: Guid(c0fe795af3ab7664e8e2c565a67e6038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/DinV/Dynamic Space Background/Sprites/Materials/Nebula Blue.mat using Guid(c0fe795af3ab7664e8e2c565a67e6038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '846426b3fff7bb32c8e382f667a468e1') in 0.074495 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/Textures/DinV/Dynamic Space Background/Sprites/Materials/Nebula Blue 1.mat
+  artifactKey: Guid(b1909570e74218a43a564909da6366f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/DinV/Dynamic Space Background/Sprites/Materials/Nebula Blue 1.mat using Guid(b1909570e74218a43a564909da6366f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5046d9f08c308da4e6522dd63d3316f') in 0.048089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Makineler/Alstra Infinite/Arcade Machines - PolyPack/Materials/Main.mat
+  artifactKey: Guid(e1092fb8c29d1574ca90358d853c5e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Makineler/Alstra Infinite/Arcade Machines - PolyPack/Materials/Main.mat using Guid(e1092fb8c29d1574ca90358d853c5e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1815e4f3e82fba4cd0e2c36471bf3559') in 0.021285 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Textures/DinV/Dynamic Space Background/Sprites/Materials/Nebula Aqua-Pink.mat
+  artifactKey: Guid(cfcbf9fedf8eefa4394e62304a4a86aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/DinV/Dynamic Space Background/Sprites/Materials/Nebula Aqua-Pink.mat using Guid(cfcbf9fedf8eefa4394e62304a4a86aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf33fd554e8e78855ba2d50c538bf63') in 0.021200 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Makineler/Alstra Infinite/Arcade Machines - PolyPack/Materials/ObjectAccent.mat
+  artifactKey: Guid(a39da91b8903d084ab6e550b722becb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Makineler/Alstra Infinite/Arcade Machines - PolyPack/Materials/ObjectAccent.mat using Guid(a39da91b8903d084ab6e550b722becb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2209180733d09325755306b2ad367b56') in 0.018817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1779.314572 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object001.prefab
+  artifactKey: Guid(8c4dc7ac00a5cfc4195c633650f1eeb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object001.prefab using Guid(8c4dc7ac00a5cfc4195c633650f1eeb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56106f0142f5024e58dc106f0ce60660') in 0.172267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object018.prefab
+  artifactKey: Guid(d8a3e23b304f7554cb453872b6580e0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object018.prefab using Guid(d8a3e23b304f7554cb453872b6580e0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36db2727aae6f55bb2264c978e66fc02') in 0.043975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object021.prefab
+  artifactKey: Guid(72d498c7b924b9041980e5d4ce1d2513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object021.prefab using Guid(72d498c7b924b9041980e5d4ce1d2513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '720ee897b884c54a379632382734fd47') in 0.060775 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object020.prefab
+  artifactKey: Guid(88c1debd714872a4a9708daf29049bc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object020.prefab using Guid(88c1debd714872a4a9708daf29049bc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '965011c2035b0c0155beb647ca14babb') in 0.037424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object004.prefab
+  artifactKey: Guid(a11a0c49b1300f244b2091a4e7ca0c65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object004.prefab using Guid(a11a0c49b1300f244b2091a4e7ca0c65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd047dc6859f65b0e0266f48879eac9dd') in 0.042870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object014.prefab
+  artifactKey: Guid(ceea1453e57b9014098fadb5432b0336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object014.prefab using Guid(ceea1453e57b9014098fadb5432b0336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10d3e65695e6f3780281c1a9cdfa305e') in 0.060339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object013.prefab
+  artifactKey: Guid(9b8132a8caaea4144a8cff6295656be2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object013.prefab using Guid(9b8132a8caaea4144a8cff6295656be2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e540f5ca17768b21d5ead6c46c12025') in 0.038329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object008.prefab
+  artifactKey: Guid(b7900c3cd7d55b248898ad9b1a37f68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object008.prefab using Guid(b7900c3cd7d55b248898ad9b1a37f68e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '796de5c29d0f97d3e6c5083077a6a6c9') in 0.040083 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object012.prefab
+  artifactKey: Guid(e04e4f79885be1d43b262112840da4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object012.prefab using Guid(e04e4f79885be1d43b262112840da4db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c97b2c6c7c2767463be5a3c6f96d86') in 0.063007 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object009.prefab
+  artifactKey: Guid(0691537f5794f52468cc0c60f23cfa89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object009.prefab using Guid(0691537f5794f52468cc0c60f23cfa89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cdbd37c802696bca837a12e3541d784') in 0.068761 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object010.prefab
+  artifactKey: Guid(ca29cb04b81f7994eb62ac927207da73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object010.prefab using Guid(ca29cb04b81f7994eb62ac927207da73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d3604c9670d4c47fe8d2bedfb7c9df4') in 0.055169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object022.prefab
+  artifactKey: Guid(88b5e5035cc31ef448478235132eb083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object022.prefab using Guid(88b5e5035cc31ef448478235132eb083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc50ffd8c136b0f9dbe64d3b8dacce43') in 0.023256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object017.prefab
+  artifactKey: Guid(2004f7f83ea59a2439c24fb7a144d009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object017.prefab using Guid(2004f7f83ea59a2439c24fb7a144d009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa795609c35a07d4f5bffd0dfcb39028') in 0.023951 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object007.prefab
+  artifactKey: Guid(78a4f173ce17ddb45bc4970e982b5163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object007.prefab using Guid(78a4f173ce17ddb45bc4970e982b5163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52e84359b11360463ee974cd80fa9419') in 0.026025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object002.prefab
+  artifactKey: Guid(3c7f3ace2048fb348aadb2920c4de68b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object002.prefab using Guid(3c7f3ace2048fb348aadb2920c4de68b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a6c8970e04907edc944210939e684de') in 0.028840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object005.prefab
+  artifactKey: Guid(1ac7657127a8d6b48ac095cfba401271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object005.prefab using Guid(1ac7657127a8d6b48ac095cfba401271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f63ee6df2c6c8292beb4eaf601f7455') in 0.023795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object006.prefab
+  artifactKey: Guid(598c3c95367cbbf4f85e2751749056b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object006.prefab using Guid(598c3c95367cbbf4f85e2751749056b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '190a723a2694dd1e1d4fbeb5cd7feada') in 0.037090 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object016.prefab
+  artifactKey: Guid(24cc895b1ff7999418d07fda27e2c2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object016.prefab using Guid(24cc895b1ff7999418d07fda27e2c2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd997dc1558a07b00ff78897c104b2717') in 0.023976 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object023.prefab
+  artifactKey: Guid(9bbcfa1faf5966b4ebc6c4db99f2a0ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object023.prefab using Guid(9bbcfa1faf5966b4ebc6c4db99f2a0ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed7db329b7939ac5c3f5fbafeb7d02f1') in 0.029262 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Neon_mobile_set2/prefab/scene.prefab
+  artifactKey: Guid(2e7a27c73d758f64e813f406f724f916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/scene.prefab using Guid(2e7a27c73d758f64e813f406f724f916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a17e8987a3b0ff636948c62a17f7b642') in 0.007079 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object024.prefab
+  artifactKey: Guid(a1fa5307957c4c34a822a81350db5c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object024.prefab using Guid(a1fa5307957c4c34a822a81350db5c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '155d09a9904df7ff7dc087cae9ae642f') in 0.023078 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object015.prefab
+  artifactKey: Guid(bc8dd0e6b42501a4288d6cd7e6d36788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object015.prefab using Guid(bc8dd0e6b42501a4288d6cd7e6d36788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea61ef94845b75974ac6e6d53bcc69ce') in 0.071376 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object003.prefab
+  artifactKey: Guid(62782aa1839fa3347929bba595f0b4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object003.prefab using Guid(62782aa1839fa3347929bba595f0b4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ee25f2d5fff541de5e115dbdb2efbeb') in 0.043100 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object011.prefab
+  artifactKey: Guid(6e02601234a395247a90eeac36ac4959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object011.prefab using Guid(6e02601234a395247a90eeac36ac4959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c3fb4c5d6f5aca2a41d860c54ef656') in 0.040239 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Neon_mobile_set2/prefab/boards/Object019.prefab
+  artifactKey: Guid(89e8dd3523970cb45ae7de103f2314a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neon_mobile_set2/prefab/boards/Object019.prefab using Guid(89e8dd3523970cb45ae7de103f2314a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fc21eaca86a58ab20c43c1b9a3edda2') in 0.032058 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
